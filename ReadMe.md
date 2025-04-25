@@ -1,7 +1,7 @@
 # ⏳ Exam Countdown Bot | Your Study Companion
 <div align="center">
 
-![Exam Countdown Bot Banner](./images/countdown-banner.png)
+![Exam Countdown Bot Banner](./images/banner.png)
 </div>
 
 <div align="center">
